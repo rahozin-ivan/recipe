@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 django = "*"
+dj-database-url = "*"
+psycopg2 = "*"
 
 [dev-packages]
 flake8 = "*"
