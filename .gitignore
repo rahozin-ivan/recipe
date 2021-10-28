@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.log
+local_settings.py
+
+.env
+
+.idea
+
+*.pyc
+*.pid
